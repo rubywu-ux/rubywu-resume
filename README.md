@@ -1,14 +1,22 @@
-# rubywu-resume
 
-Minimal repo to host Ruby Wu's resume via GitHub Pages.
+# Ruby Wu — Resume
 
-Instructions
+Based in Seattle, WA — UX Designer at the University of Washington.
 
-- Add your `resume.pdf` to the repository root.
-- Commit & push to `main`.
-- Enable Pages: Settings → Pages → branch `main`, folder `/ (root)`.
+This repository hosts a minimal resume site and the PDF of Ruby Wu's resume.
 
-URL (after Pages is active):
-`https://rubywu-ux.github.io/rubywu-resume/resume.html`
+- View the resume page: [Resume page](https://rubywu-ux.github.io/rubywu-resume/resume.html)
+- Download PDF: [RubyWu_Resume2026.pdf](RubyWu_Resume2026.pdf)
+- Personal profile / portfolio: https://rubywu.framer.website
 
-If you want, attach your `resume.pdf` here and I will add it and push the repo.
+View locally:
+
+```bash
+open index.html
+```
+
+Pages (if enabled) will publish at:
+
+https://rubywu-ux.github.io/rubywu-resume/
+
+If you want different copy or additional sections (contact, links, or embedded images), tell me what to add.
