@@ -8,7 +8,7 @@ This repository hosts Ruby Wu's resume site, downloadable PDF, and public portfo
 - Resume page: [Resume page](https://rubywu-ux.github.io/rubywu-resume/resume.html)
 - Google Doc resume: [Google Doc](https://drive.google.com/file/d/1-PVSfKKsNwh2G6Yiadkg4iSIvUEvtJ_I/view?usp=share_link)
 - Portfolio: [ruby-wu.framer.website](https://ruby-wu.framer.website)
-- Download PDF: [RubyWu_Resume2026.pdf](RubyWu_Resume2026.pdf)
+- Download PDF: [resume.pdf](resume.pdf)
 
 View locally:
 
